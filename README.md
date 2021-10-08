@@ -8,5 +8,5 @@ Languages = ["Python", "C++", "C"]
 
 <div align=center>
 
-![coding speed x 1000](giphy.gif)
+![coding speed x 1000](wot.gif)
 </div>
